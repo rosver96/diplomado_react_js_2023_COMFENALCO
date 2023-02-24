@@ -1,0 +1,43 @@
+#titulo{
+        display: flex;
+        flex-direction: column;
+        color: lightcoral;
+        align-items: center;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        height: 80px;
+}
+
+#subtitulo{
+        display: flex;
+        flex-direction: column;
+        color: darkgoldenrod;
+        align-items: center;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+body {
+        background-color: burlywood;
+       
+}
+
+.img-css{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+}
+
+#parrafo{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        height: 80px;
+}
+#input{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        height: 80px;
+
+}
+

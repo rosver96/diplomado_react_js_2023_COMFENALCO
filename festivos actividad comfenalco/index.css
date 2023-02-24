@@ -1,0 +1,57 @@
+ @import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Roboto&display=swap');
+
+.title{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color:red;
+}
+.img-1 {
+    height: 200px;
+    width: 350px;
+    border: 1px solid gray;
+    border-radius: 15%;
+    display: flex;
+    align-items: end;
+    flex-direction: column;
+}
+
+.card-1 {
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+
+}
+.card-2 {
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+   
+}
+.card-3 {
+    display: flex; 
+    flex-direction:column;
+    align-items: center; 
+}
+.card-4 {
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+}
+body{
+    background-color:antiquewhite;
+}
+
+.card-title{
+    font-size: large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  
+}
+.card-tex{
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   color:black;
+}
+
+
