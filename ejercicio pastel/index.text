@@ -1,0 +1,33 @@
+Ejercicio
+- Una pasteleria tiene 2 tipos de pasteles insignia, que tiene los siguientes ingredientes:
+
+pastel 1:
+- Harina, 12 Huevos, Levadura, vainilla
+
+pastel 2:
+- Harina, 6 Huevos, Levadura, chocolate 
+
+suponiendo que el valor de la harina es de 2.500
+el valor de cada huevo es de 500 
+el valor de la levadura 1200 
+chocolate a: 7000
+vainilla: 3000 
+
+calcular cual es el costo total de cada pastel 
+
+y decir cual es mas economico..
+
+2) teniendo en cuenta el codigo anterior agregar un nuevo producto con un nuevo ingrediente, con la configuracion que ustedes deseen agregar. 
+
+pastel Nuevo:
+- Harina, N Huevos, Levadura, <producto>
+responder: 
+como afecta este cambio al codigo? 
+como se puede adaptar el codigo a ese nuevo requerimiento
+
+
+3) teniendo en cuenta el codigo anterior agregar un nuevo ingrediente presente en la preparacion de todos los pasteles Ejemplo (mantequilla, valor: 4.500) 
+
+responder: 
+como afecta este cambio al codigo? 
+como se puede adaptar el codigo a ese nuevo requerimiento
